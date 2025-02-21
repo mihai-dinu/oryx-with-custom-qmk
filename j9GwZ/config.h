@@ -6,16 +6,13 @@
 #undef DEBOUNCE
 #define DEBOUNCE 5
 
-#undef TAPPING_TERM
-#define TAPPING_TERM 150
-
 #define ONESHOT_TAP_TOGGLE 2
 
 #define PERMISSIVE_HOLD
 
 #define USB_SUSPEND_WAKEUP_DELAY 0
 #define CAPS_LOCK_STATUS
-#define SERIAL_NUMBER "j9GwZ/zzemr"
+#define SERIAL_NUMBER "j9GwZ/KrrerX"
 #define LAYER_STATE_8BIT
 #define COMBO_COUNT 1
 
